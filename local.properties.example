@@ -1,0 +1,5 @@
+# Copia este archivo como local.properties (Android Studio lo crea solo con sdk.dir)
+# y agrega estas lineas. local.properties esta en .gitignore: el token NO se sube al repo.
+FINNHUB_TOKEN=pega_aqui_tu_token_de_finnhub
+CLOUDINARY_CLOUD_NAME=tu_cloud_name
+CLOUDINARY_UPLOAD_PRESET=tu_upload_preset_unsigned

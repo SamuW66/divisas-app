@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319394083534",
+    "project_id": "divisas-app-e9149",
+    "storage_bucket": "divisas-app-e9149.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319394083534:android:1f651a88184d94ea13569f",
+        "android_client_info": {
+          "package_name": "com.example.divisas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvO10FDbBdlw4qY51cZaq-naJJXjdVTAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
